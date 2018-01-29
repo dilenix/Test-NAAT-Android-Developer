@@ -1,4 +1,4 @@
-# Example Test NA-AT Android Developer Sr.
+# Example Test NA-AT Sr Android Developer.
 Exam for the consultancy NA-AT Technologies for the vacancy of Android developer.
 
 Features used in this test:
